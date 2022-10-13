@@ -38,10 +38,10 @@ newsArray = [//always true
 ["if you're reading this, your sex will change if you have XY chromosomes in five hours.", true, "a36"], 
 ["Some cishet homophobic-transphobic guy wasn't nice, he got forced to take twenty estrogen pills by a bunch of old chinese ladies who say '起来！不愿做奴隶的人们！'.", true, "a37"],
 ["You are living, you occupy space, you have a mass, you're a beautiful, feminine girl, you matter... unless you antimatter, but you're still a beautiful, feminine girl.", true, "a38"],  ow
-["你是一个女孩.", true, "a39"],'
+["huh?", true, "a39"],'
 ["If an alien lands on your front lawn and extends an appendage as a gesture of greeting, before you get friendly, toss it an eightball. If the appendage explodes, then the alien was probably made of antimatter. If not, then you can proceed to take it to your leader. However, if they say 'when life is dark be the light to it', say that you're a determined girl. That way, you will be loved, appreciated and supported. -Neil deGrasse Tyson and Vaarden Anthropi", true, "a40"],
 ["There always must be equal matter than there is antimatter, I guess your estrogen pills balances that a bit", true, "a41"], 
-["肏他妈.                                                                                                            If you could read that, you're a girl!", true, "a42"], 
+["u                                                                                                            If you could read that, you're a girl!", true, "a42"], 
 ["We dug a big hole to store this antimatter... AzaZeAll's rolling in it since 2018 and they're screaming TOBH BEST CLASSIC TOWER every day.", true, "a43"],
 ["If everything is antimatter, how can you play jtoh?", true, "a44"], 
 ["The stock markets have crashed due to -redacted- YOUR MOM PLAYS JTOH ------", true, "a45"], 
